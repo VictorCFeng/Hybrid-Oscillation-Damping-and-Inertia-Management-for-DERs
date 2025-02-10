@@ -36,7 +36,7 @@ P_set =  pset; Q_set = q_set_pu*Sb;
 Vod = Vb_p_ph; Voq =0;
 Iod = P_set/(3/2)/Vod;
 Ioq = -Q_set/(3/2)/Vod;
-%稳态VSC端口电压电流的求解
+% Voltage and Current Calculation
 Func = [1           0           -r_f          w_b*l_f;
      0           1           -w_b*l_f     -r_f;
      0           0           1             0;
