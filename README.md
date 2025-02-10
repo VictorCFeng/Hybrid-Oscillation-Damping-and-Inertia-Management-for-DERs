@@ -1,6 +1,6 @@
 # DER Dynamic Simulation and Stability Analysis
 
-This repository contains simulation files and data for analyzing the dynamic behavior and small-signal stability of Distributed Energy Resources (DER) systems. The code and data provided here are associated with the paper **"Hybrid Oscillation Damping and Inertia Management for Distributed Energy Resources"**. If you use this code in your research or applications, please remember to cite the paper and any other relevant literature.
+The code and data provided here are associated with the paper **"Hybrid Oscillation Damping and Inertia Management for Distributed Energy Resources"**. If you use this code in your research or applications, please remember to cite the paper and any other relevant literature.
 
 ## Overview
 
