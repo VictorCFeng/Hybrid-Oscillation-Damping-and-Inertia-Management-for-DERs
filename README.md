@@ -6,7 +6,7 @@ The code and data provided here are associated with the paper **"Hybrid Oscillat
 
 ### Simulation Data
 - **.m Files:**  
-  Each `.m` file in this repository includes the simulation data necessary for running the analysis. This data encompasses network line parameters and DER control parameters (both inner and outer loop settings).
+  Each `sim_m_casexxxxxx.m` file in this repository includes the simulation data necessary for running the analysis. This data encompasses network line parameters and DER control parameters (both inner and outer loop settings).
 - **.mat Files:**  
   Each `.mat` file contains the corresponding inertia and damping values, which you can adjust according to your own requirements.
 
